@@ -55,10 +55,6 @@ docker pull busratilki/keras-nlp-app:latest
 
 If you would like to contribute to the project, feel free to submit a pull request (PR) or report any issues.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 If you encounter any issues, please do not hesitate to contact us!
